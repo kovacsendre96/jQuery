@@ -1,6 +1,16 @@
 
 
 
+
+// ======TASK7======
+$(document).ready(function(){
+  $("div").click(function(){
+    $(this).css("background-color", "yellow")();
+  });
+});
+
+
+/*
 // ======TASK6======
 
 $(document).ready(function(){
@@ -8,9 +18,6 @@ $(document).ready(function(){
     $("span").hide();
   });
 });
-
-/*
-
 
 // ======TASK5======
 
