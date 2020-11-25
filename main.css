@@ -10,4 +10,5 @@ div {
     padding: 10px;
     background-color: SkyBlue;
     text-align: center;
+    position: relative;
   }
