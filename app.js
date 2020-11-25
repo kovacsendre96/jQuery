@@ -1,4 +1,21 @@
 
+
+// ======TASK9======
+
+$(document).ready(function(){
+  $("input").keyup(function(){
+    $("span").text($("input").val());
+  });
+});
+
+
+
+
+
+
+    
+
+/*
 // ======TASK8======
 
 $(document).ready(function(){
@@ -10,8 +27,6 @@ $(document).ready(function(){
 });
 
 
-
-/*
 // ======TASK7======
 $(document).ready(function(){
   $("div").click(function(){
