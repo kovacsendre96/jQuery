@@ -1,4 +1,11 @@
 
-$("#criminal").click(function(){
+
+$(document).ready(function(){
+
+  $("#criminal").click(function(){
     $(this).hide();
-  });   
+  });
+
+});
+
+   
