@@ -1,4 +1,17 @@
 
+
+
+// ======TASK6======
+
+$(document).ready(function(){
+  $("button").click(function(){
+    $("span").hide();
+  });
+});
+
+/*
+
+
 // ======TASK5======
 
 $(document).ready(function(){
@@ -6,16 +19,6 @@ $(document).ready(function(){
     $(".introvert").hide();
   });
 });
-
-
-
-
-
-/*
-
-
-
-
 
 
 });
