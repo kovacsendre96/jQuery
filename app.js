@@ -1,17 +1,25 @@
-   //======TASK18======
-   $(document).ready(function(){
-    $("input").keyup(function(){
-      $("span").text($("input").val());
-    });
+  
+   //======TASK20======
+  
+ $(document).ready(function(){
+  $("a").click(function(){
+  alert("You are opening "+$("a").attr("href")+".")
+    
+  
   });
-  
-  
- 
+  });
 
 
   
   /*
 
+
+ //======TASK19======
+   $(document).ready(function(){
+    $("input").keyup(function(){
+      $("span").text($("input").val());
+    });
+  });
    //======TASK18======
   $(document).ready(function(){
     $("button").click(function(){
