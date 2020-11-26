@@ -1,16 +1,24 @@
 
-//======TASK13======
+//======TASK14======
+$("document").ready(function(){
+  $("button").click(function(){
+  $("#red").animate({left:"300px"});
+    
+  });
+  });
+
+
+  
+  
+  /*
+
+  //======TASK13======
 $("document").ready(function(){
   $("button").click(function(){
   $(".bunny").toggle("linear");
     
   });
   });
-
-  
-  
-  /*
-  
   //======TASK12======
   
   $("document").ready(function(){
