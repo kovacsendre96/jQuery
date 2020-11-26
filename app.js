@@ -1,22 +1,26 @@
 
-
-
-
-//======TASK12======
-
-
-
+//======TASK13======
 $("document").ready(function(){
-  $("button").click(  function(){
-    $(".bunny").toggle(2000)
-   
-   });
-   });
+  $("button").click(function(){
+  $(".bunny").toggle("linear");
     
+  });
+  });
 
-/*
-
-//======TASK11======
+  
+  
+  /*
+  
+  //======TASK12======
+  
+  $("document").ready(function(){
+    $("button").click(  function(){
+      $(".bunny").toggle(2000)
+     
+     });
+     });
+  
+  //======TASK11======
 
 
 $("document").ready(function(){

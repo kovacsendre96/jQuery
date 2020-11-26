@@ -1,6 +1,35 @@
 
+/*======TASK13======*/
+body {
+  background-color: green;
+}
 
-/*======TASK12======*/
+div {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.bunny {
+  background-color: white;
+  width: 75px;
+  height: 75px;
+  display: none;
+}
+
+button {
+  display: block;
+}
+
+
+
+
+
+
+
+/*======TASK12======
 body {
   background-color: green;
 }
@@ -32,7 +61,9 @@ button {
 
 
 
-/*======TASK11======div {
+
+
+======TASK11======div {
   width: 100px;
   height: 100px;
   padding: 10px;
