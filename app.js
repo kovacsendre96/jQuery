@@ -1,13 +1,13 @@
 
 
-// ======TASK9======
+//======TASK11======
 
-$(document).ready(function(){
-  $("input").keyup(function(){
-    $("span").text($("input").val());
-  });
+
+$("document").ready(function(){
+  $("button").click(function(){
+  $("div").toggle();
 });
-
+  });
 
 
 
@@ -16,6 +16,27 @@ $(document).ready(function(){
     
 
 /*
+// ======TASK10======
+
+$(document).ready(function(){
+  
+  $("button").click(function(){
+    $("li:last").after("<li>To do do do dooo</li>");
+    $("li").on( "click", function( event ) {
+
+      $(this).hide();});
+  });
+});
+
+
+// ======TASK9======
+
+$(document).ready(function(){
+  $("input").keyup(function(){
+    $("span").text($("input").val());
+  });
+});
+
 // ======TASK8======
 
 $(document).ready(function(){
