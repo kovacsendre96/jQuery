@@ -1,4 +1,16 @@
-//======TASK16======
+  //======TASK17======
+  $(document).ready(function(){
+    $("div").mouseenter(function(){
+      $(this).text("Thanks, it's much better now!")});
+  
+     $("div").mouseleave(function(){
+      $(this).text("Oh nooo, the itching is back!.")});
+   
+  });
+  
+  /*
+  
+  //======TASK16======
 
 
 $("document").ready(function(){
@@ -7,10 +19,7 @@ $("document").ready(function(){
     
     
       });
-}); 
-
-  
-  /*
+});
 //======TASK15======
 
 
