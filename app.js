@@ -1,4 +1,14 @@
-  //======TASK17======
+  //======TASK18======
+  $(document).ready(function(){
+    $("button").click(function(){
+      $("span").html("<em>even</em>");
+    });
+  });
+
+
+  
+  /*
+    //======TASK17======
   $(document).ready(function(){
     $("div").mouseenter(function(){
       $(this).text("Thanks, it's much better now!")});
@@ -7,9 +17,6 @@
       $(this).text("Oh nooo, the itching is back!.")});
    
   });
-  
-  /*
-  
   //======TASK16======
 
 

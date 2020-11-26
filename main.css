@@ -1,5 +1,32 @@
 
-/*======TASK17======*/
+/*======TASK18======*/
+
+div {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  vertical-align: top;
+}
+
+#div1 {
+  background-color: orange;
+  width: 100px;
+  height: 70px;
+}
+
+#div2 {
+  background-color: yellow;
+  width: 140px;
+  height: 70px;
+}
+
+button {
+  display: block;
+}
+
+
+/*======TASK17======
 
 div {
   width: 100px;
