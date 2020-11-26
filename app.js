@@ -1,13 +1,23 @@
-  //======TASK18======
+   //======TASK18======
+   $(document).ready(function(){
+    $("input").keyup(function(){
+      $("span").text($("input").val());
+    });
+  });
+  
+  
+ 
+
+
+  
+  /*
+
+   //======TASK18======
   $(document).ready(function(){
     $("button").click(function(){
       $("span").html("<em>even</em>");
     });
   });
-
-
-  
-  /*
     //======TASK17======
   $(document).ready(function(){
     $("div").mouseenter(function(){
