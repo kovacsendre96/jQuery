@@ -1,5 +1,21 @@
 
 
+
+
+//======TASK12======
+
+
+
+$("document").ready(function(){
+  $("button").click(  function(){
+    $(".bunny").toggle(2000)
+   
+   });
+   });
+    
+
+/*
+
 //======TASK11======
 
 
@@ -10,12 +26,6 @@ $("document").ready(function(){
   });
 
 
-
-
-
-    
-
-/*
 // ======TASK10======
 
 $(document).ready(function(){
