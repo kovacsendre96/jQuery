@@ -1,4 +1,17 @@
 
+//======TASK15======
+
+
+  $("document").ready(function(){
+    $("button").click(function(){
+    $(this).fadeOut("slow",function(){
+    alert("Mission completed!.");
+
+    });
+  }); 
+}); 
+  
+  /*
 //======TASK14======
 $("document").ready(function(){
   $("button").click(function(){
@@ -6,12 +19,6 @@ $("document").ready(function(){
     
   });
   });
-
-
-  
-  
-  /*
-
   //======TASK13======
 $("document").ready(function(){
   $("button").click(function(){
