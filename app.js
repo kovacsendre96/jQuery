@@ -1,3 +1,17 @@
+//======TASK22======
+$(document).ready(function(){
+  $("button").click(function(){
+  $("#friend2").before("<div>Whoa, calm down, bros!</div>")
+     });
+  });
+
+
+
+  
+/*
+
+
+
   //======TASK21======
   $(document).ready(function(){
     $("button").click(function(){
@@ -6,11 +20,6 @@
     
     });
     });
-
-
-  
-  /*
-
  //======TASK20======
   
   $(document).ready(function(){
