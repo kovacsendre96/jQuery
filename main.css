@@ -1,5 +1,44 @@
 
 
+/*======TASK23======*/
+
+div {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  text-align: center;
+  vertical-align: top;
+  width: 75px;
+  height: 100px;
+}
+
+#hermione {
+  background-color: chocolate;
+  color: maroon;
+}
+
+#ron {
+  background-color: orangered;
+  color: lightblue;
+}
+
+#harry {
+  background-color: black;
+  color: green;
+}
+
+button {
+  display: block;
+}
+
+
+
+
+
+/*
+
+
 
 /*======TASK21======*/
 div {
@@ -18,8 +57,7 @@ button {
   display: block;
 }
 
-
-/*======TASK19======
+======TASK19======
 div {
   display: inline-block;
   padding: 10px;

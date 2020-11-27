@@ -1,16 +1,21 @@
+//======TASK23======
+
+$(document).ready(function(){
+  $("button").click(function(){
+  $(".lovebird").remove()
+     });
+  });
+
+
+  
+/*
+
 //======TASK22======
 $(document).ready(function(){
   $("button").click(function(){
   $("#friend2").before("<div>Whoa, calm down, bros!</div>")
      });
   });
-
-
-
-  
-/*
-
-
 
   //======TASK21======
   $(document).ready(function(){
