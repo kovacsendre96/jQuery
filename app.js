@@ -1,16 +1,22 @@
 
+//======TASK26======
+
+
+$(document).ready(function(){
+  $("button").click(function(){
+  $(".party-face").removeClass("pretty")
+     });
+  });
+  
+/*
+
+
 //======TASK25======
 $(document).ready(function(){
   $("button").click(function(){
   $(".party-face").addClass("pretty")
      });
   });
-
-
-
-
-  
-/*
 
 
 //======TASK24======
