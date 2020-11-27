@@ -1,3 +1,19 @@
+//======TASK28======
+
+ $(document).ready(function(){
+  $("button").click(function(){
+  $("body").css("background-color","black")
+    });
+  });
+  
+
+  
+/*
+
+
+
+
+
 //======TASK27======
 
 $(document).ready(function(){
@@ -5,11 +21,6 @@ $(document).ready(function(){
   $("div").toggleClass("blue")
     });
   });
-
- 
-  
-/*
-
 //======TASK26======
 
 
