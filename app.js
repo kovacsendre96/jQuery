@@ -1,16 +1,23 @@
+//======TASK27======
+
+$(document).ready(function(){
+  $("button").click(function(){
+  $("div").toggleClass("blue")
+    });
+  });
+
+ 
+  
+/*
 
 //======TASK26======
 
 
-$(document).ready(function(){
-  $("button").click(function(){
-  $(".party-face").removeClass("pretty")
-     });
-  });
-  
-/*
-
-
+  $(document).ready(function(){
+    $("button").click(function(){
+    $(".party-face").removeClass("pretty")
+      });
+    });
 //======TASK25======
 $(document).ready(function(){
   $("button").click(function(){
