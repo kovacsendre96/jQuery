@@ -1,3 +1,13 @@
+//======TASK24======
+
+$(document).ready(function(){
+  $("button").click(function(){
+  $("div").empty()
+     });
+  });
+  
+/*
+
 //======TASK23======
 
 $(document).ready(function(){
@@ -5,11 +15,6 @@ $(document).ready(function(){
   $(".lovebird").remove()
      });
   });
-
-
-  
-/*
-
 //======TASK22======
 $(document).ready(function(){
   $("button").click(function(){
