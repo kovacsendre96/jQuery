@@ -1,6 +1,31 @@
+/*======TASK25=====*/
 
 
-/*======TASK23======*/
+div {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  vertical-align: top;
+  width: 75px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.pretty {
+  background-color: chartreuse;
+  color: blue;
+}
+
+button {
+  display: block;
+}
+
+
+
+
+
+/*======TASK23======
 
 div {
   display: inline-block;
@@ -40,7 +65,7 @@ button {
 
 
 
-/*======TASK21======*/
+/*======TASK21======
 div {
   display: inline-block;
   padding: 10px;

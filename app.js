@@ -1,3 +1,18 @@
+
+//======TASK25======
+$(document).ready(function(){
+  $("button").click(function(){
+  $(".party-face").addClass("pretty")
+     });
+  });
+
+
+
+
+  
+/*
+
+
 //======TASK24======
 
 $(document).ready(function(){
@@ -5,9 +20,6 @@ $(document).ready(function(){
   $("div").empty()
      });
   });
-  
-/*
-
 //======TASK23======
 
 $(document).ready(function(){
