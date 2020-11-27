@@ -1,3 +1,15 @@
+
+ //======TASK32======
+
+
+ $(document).ready(function(){
+  $("#datepicker").datepicker();
+});
+
+
+
+
+/*
  //======TASK31======
  $(document).ready(function(){
   $("button").click(function(){
@@ -9,7 +21,6 @@
     });
   });
 });
-/*
  //======TASK30======
 
   $(document).ready(function(){
